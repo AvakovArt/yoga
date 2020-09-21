@@ -38,7 +38,7 @@ a {
 
 .head {
   width: 100%;
-  background-image: url(../../img/home-bg.png);
+  background-image: url(../img/home-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 106vh;
@@ -156,7 +156,7 @@ a {
 }
 
 .about {
-  background-image: url(../../img/image-left.png);
+  background-image: url(../img/image-left.png);
   background-size: contain;
   background-position: right;
   background-repeat: no-repeat;
